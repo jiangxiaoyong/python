@@ -1,0 +1,18 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/jxy/git/python/.metadata/.plugins/org.eclipse.core.resources/.projects/LengthofLastWord/com.python.pydev.analysis/v2_indexcache
+solution.__init__|1438982938000|/home/jxy/git/python/LengthofLastWord/solution/__init__.py
+solution.LengthLastWord|1439040688000|/home/jxy/git/python/LengthofLastWord/solution/LengthLastWord.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=solution.LengthLastWord
+-- END DICTIONARY
+-- START TREE 1
+2
+len|1|lengthOfLastWord!10@
+mai|1|main!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

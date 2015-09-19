@@ -1,0 +1,18 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/jxy/git/python/.metadata/.plugins/org.eclipse.core.resources/.projects/ReverseWordsInString/com.python.pydev.analysis/v2_indexcache
+solution.__init__|1438977182000|/home/jxy/git/python/ReverseWordsInString/solution/__init__.py
+solution.ReverseWordsInString|1438978736000|/home/jxy/git/python/ReverseWordsInString/solution/ReverseWordsInString.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=solution.ReverseWordsInString
+-- END DICTIONARY
+-- START TREE 1
+2
+mai|1|main!10@
+rev|1|reverseWords!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

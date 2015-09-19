@@ -1,0 +1,18 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/jxy/git/python/.metadata/.plugins/org.eclipse.core.resources/.projects/SingleNumber/com.python.pydev.analysis/v2_indexcache
+solution.SingleNumber|1439062876000|/home/jxy/git/python/SingleNumber/solution/SingleNumber.py
+solution.__init__|1439062525000|/home/jxy/git/python/SingleNumber/solution/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=solution.SingleNumber
+-- END DICTIONARY
+-- START TREE 1
+2
+mai|1|main!10@
+sin|1|singleNumber!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

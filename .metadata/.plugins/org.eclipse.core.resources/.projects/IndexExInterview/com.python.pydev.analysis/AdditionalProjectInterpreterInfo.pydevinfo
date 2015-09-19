@@ -1,0 +1,27 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/jxy/git/python/.metadata/.plugins/org.eclipse.core.resources/.projects/IndexExInterview/com.python.pydev.analysis/v2_indexcache
+solution.__init__|1439335843000|/home/jxy/git/python/IndexExInterview/solution/__init__.py
+solution.interviewQ|1439335884000|/home/jxy/git/python/IndexExInterview/solution/interviewQ.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=solution.interviewQ
+-- END DICTIONARY
+-- START TREE 1
+11
+clo|1|clo_num!11@
+con|1|con!11@
+cur|1|cur!11@
+dic|1|dic!11@
+dom|1|domain!11@
+ema|1|email!11@
+gro|1|growth_dic!11@
+lis|1|list!11@
+rep|1|report!11@
+row|1|row!11@
+upd|1|updated_dic!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

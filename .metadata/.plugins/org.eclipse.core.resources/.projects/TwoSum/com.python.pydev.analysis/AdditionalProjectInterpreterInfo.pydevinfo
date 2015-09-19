@@ -1,0 +1,18 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/jxy/git/python/.metadata/.plugins/org.eclipse.core.resources/.projects/TwoSum/com.python.pydev.analysis/v2_indexcache
+solution.TwoSum|1438971363000|/home/jxy/git/python/TwoSum/solution/TwoSum.py
+solution.__init__|1438968848000|/home/jxy/git/python/TwoSum/solution/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=solution.TwoSum
+-- END DICTIONARY
+-- START TREE 1
+2
+mai|1|main!10@
+two|1|twoSum!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,18 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/jxy/git/python/.metadata/.plugins/org.eclipse.core.resources/.projects/LongestSubstring/com.python.pydev.analysis/v2_indexcache
+solution.__init__|1438984198000|/home/jxy/git/python/LongestSubstring/solution/__init__.py
+solution.LongestSubstring|1439043591000|/home/jxy/git/python/LongestSubstring/solution/LongestSubstring.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=solution.LongestSubstring
+-- END DICTIONARY
+-- START TREE 1
+2
+len|1|lengthOfLongestSubstring!10@
+mai|1|main!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
